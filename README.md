@@ -22,4 +22,7 @@ Number Merge Runner
 
   O(n * W), where n represents the number of checkpoints and W is the maximum weight capacity. The space complexity is O(W) because the algorithm relies on a single 1D array of size W+1 to track the maximum values for each possible weight. This efficient use of time and space makes the algorithm well-suited for the game’s optimization challenge.
 
+For The Full Gameplay Preview
+Drive Link: https://drive.google.com/drive/folders/1d-uJhvNzw0pH7PsXqYefeOyrU3TMgZPk?usp=sharing
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9100741f-9dc2-47a1-a763-c1b039a4a6f8" />
